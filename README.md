@@ -2,8 +2,8 @@
 
 
 
-- 🖥I’m currently working learning more about Django
-- 🌱 I’m currently learning ...
+- 🖥I’m currently working on Appointment Management system and Food ordering system 
+- 🌱 I’m currently learning more about Django 
 - 👯  I’m looking to collaborate on any projects.
   💬 Ask me about **JavaScript**, **Python**, or **REST APIs
 - 🖥 I’m looking forward to collaborate on any projects 
